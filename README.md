@@ -1,5 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
-
+# Control of Relay Using IoT controller
+### Name: Sabari Akash
+### Reg No: 212222230124
 ##  AIM:
 To control the Relay using Arduino controller
 
